@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/PremThakareitm/LeetCodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/PremThakareitm/LeetCodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/1285-balance-a-binary-search-tree) |
 ## Array
@@ -42,5 +44,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/PremThakareitm/LeetCodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/1285-balance-a-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/PremThakareitm/LeetCodee/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

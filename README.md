@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PremThakareitm/LeetCodee/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PremThakareitm/LeetCodee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PremThakareitm/LeetCodee/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PremThakareitm/LeetCodee/tree/master/0013-roman-to-integer) |
 ## Math
 |  |

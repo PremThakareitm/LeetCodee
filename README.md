@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PremThakareitm/LeetCodee/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PremThakareitm/LeetCodee/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

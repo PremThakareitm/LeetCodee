@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PremThakareitm/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PremThakareitm/LeetCodee/tree/master/0145-binary-tree-postorder-traversal) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PremThakareitm/LeetCodee/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/PremThakareitm/LeetCodee/tree/master/0020-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |

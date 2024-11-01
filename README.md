@@ -68,10 +68,16 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PremThakareitm/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/PremThakareitm/LeetCodee/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PremThakareitm/LeetCodee/tree/master/0020-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PremThakareitm/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PremThakareitm/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

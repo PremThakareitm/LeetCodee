@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PremThakareitm/LeetCodee/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0148-sort-list) |
 | [1285-balance-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PremThakareitm/LeetCodee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PremThakareitm/LeetCodee/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PremThakareitm/LeetCodee/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

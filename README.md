@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/PremThakareitm/LeetCodee/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/PremThakareitm/LeetCodee/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0120-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/PremThakareitm/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/PremThakareitm/LeetCodee/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/PremThakareitm/LeetCodee/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |

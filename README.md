@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/PremThakareitm/LeetCodee/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PremThakareitm/LeetCodee/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/PremThakareitm/LeetCodee/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PremThakareitm/LeetCodee/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/PremThakareitm/LeetCodee/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/PremThakareitm/LeetCodee/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PremThakareitm/LeetCodee/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

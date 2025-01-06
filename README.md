@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/PremThakareitm/LeetCodee/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PremThakareitm/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/PremThakareitm/LeetCodee/tree/master/0067-add-binary) |
+| [0392-is-subsequence](https://github.com/PremThakareitm/LeetCodee/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/PremThakareitm/LeetCodee/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/PremThakareitm/LeetCodee/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/PremThakareitm/LeetCodee/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PremThakareitm/LeetCodee/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/PremThakareitm/LeetCodee/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/PremThakareitm/LeetCodee/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0120-triangle) |
+| [1524-string-matching-in-an-array](https://github.com/PremThakareitm/LeetCodee/tree/master/1524-string-matching-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/PremThakareitm/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/PremThakareitm/LeetCodee/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/PremThakareitm/LeetCodee/tree/master/0392-is-subsequence) |
+| [1524-string-matching-in-an-array](https://github.com/PremThakareitm/LeetCodee/tree/master/1524-string-matching-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/PremThakareitm/LeetCodee/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1013-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/PremThakareitm/LeetCodee/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->

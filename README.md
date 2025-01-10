@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/PremThakareitm/LeetCodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/1285-balance-a-binary-search-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/PremThakareitm/LeetCodee/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -133,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/PremThakareitm/LeetCodee/tree/master/1524-string-matching-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/PremThakareitm/LeetCodee/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/PremThakareitm/LeetCodee/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/PremThakareitm/LeetCodee/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

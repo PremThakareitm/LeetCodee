@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/PremThakareitm/LeetCodee/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PremThakareitm/LeetCodee/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/PremThakareitm/LeetCodee/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/PremThakareitm/LeetCodee/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1236-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |

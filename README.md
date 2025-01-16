@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PremThakareitm/LeetCodee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PremThakareitm/LeetCodee/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/PremThakareitm/LeetCodee/tree/master/0268-missing-number) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/PremThakareitm/LeetCodee/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/PremThakareitm/LeetCodee/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/PremThakareitm/LeetCodee/tree/master/0120-triangle) |
+| [0268-missing-number](https://github.com/PremThakareitm/LeetCodee/tree/master/0268-missing-number) |
 | [1524-string-matching-in-an-array](https://github.com/PremThakareitm/LeetCodee/tree/master/1524-string-matching-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -73,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/PremThakareitm/LeetCodee/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PremThakareitm/LeetCodee/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/PremThakareitm/LeetCodee/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PremThakareitm/LeetCodee/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PremThakareitm/LeetCodee/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PremThakareitm/LeetCodee/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/PremThakareitm/LeetCodee/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/PremThakareitm/LeetCodee/tree/master/1236-n-th-tribonacci-number) |
 ## String
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PremThakareitm/LeetCodee/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/PremThakareitm/LeetCodee/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PremThakareitm/LeetCodee/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/PremThakareitm/LeetCodee/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/PremThakareitm/LeetCodee/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |

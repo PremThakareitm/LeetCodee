@@ -156,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/PremThakareitm/LeetCodee/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/PremThakareitm/LeetCodee/tree/master/2121-find-if-path-exists-in-graph) |
+| [3189-find-champion-ii](https://github.com/PremThakareitm/LeetCodee/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
